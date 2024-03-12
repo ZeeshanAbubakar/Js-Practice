@@ -1,0 +1,1 @@
+document.getElementById("heading").innerHTML = "<span class='text-daner'> this is fake</span>"
